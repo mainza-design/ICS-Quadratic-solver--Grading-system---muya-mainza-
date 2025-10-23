@@ -73,7 +73,10 @@ Here are some test cases to verify the functionality and validation of both comp
             *   Nature of Roots: Two complex conjugate roots
             *   Root 1: -0.5000 + 0.8660i
             *   Root 2: -0.5
-         
+     
+
+
+
             *   for any contribution to the project requests are welcome 
 
    
