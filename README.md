@@ -1,6 +1,6 @@
 # ICS-Quadratic-solver--Grading-system---muya-mainza
 
-## Project Title Quadratic Solver & Grading System 
+## Quadratic Solver & Grading System 
 
 This project implements a single-file web page (`index.html`) that combines two distinct functionalities: a **Quadratic Solver** and a **Grading System**.
 
@@ -73,3 +73,7 @@ Here are some test cases to verify the functionality and validation of both comp
             *   Nature of Roots: Two complex conjugate roots
             *   Root 1: -0.5000 + 0.8660i
             *   Root 2: -0.5
+         
+            *   for any contribution to the project requests are welcome 
+
+   
